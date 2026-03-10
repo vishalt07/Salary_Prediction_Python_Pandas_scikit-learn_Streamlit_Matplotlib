@@ -1,1 +1,4 @@
-This project is an AI and Machine Learning based system that detects diseases in multiple crops using image processing and deep learning techniques. The system analyzes crop leaf images and predicts possible diseases, helping farmers take early preventive actions and improve crop productivity.
+Salary Predictor | Tech Stack: Python, Pandas, scikit-learn, Streamlit, Matplotlib
+
+Developed a machine learning application that predicts salary based on user inputs such as experience, education, and  location using 
+regression models (84% accuracy).
